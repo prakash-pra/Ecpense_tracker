@@ -1,5 +1,5 @@
 # Expense_tracker
 
-# Quick Start
-npm install
-npm start
+## Quick Start
+```npm install
+npm start```
